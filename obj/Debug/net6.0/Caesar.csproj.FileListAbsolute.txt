@@ -1,0 +1,15 @@
+/home/yudhit/Documents/belajarNgoding/Caesar/bin/Debug/net6.0/Caesar
+/home/yudhit/Documents/belajarNgoding/Caesar/bin/Debug/net6.0/Caesar.deps.json
+/home/yudhit/Documents/belajarNgoding/Caesar/bin/Debug/net6.0/Caesar.runtimeconfig.json
+/home/yudhit/Documents/belajarNgoding/Caesar/bin/Debug/net6.0/Caesar.dll
+/home/yudhit/Documents/belajarNgoding/Caesar/bin/Debug/net6.0/ref/Caesar.dll
+/home/yudhit/Documents/belajarNgoding/Caesar/bin/Debug/net6.0/Caesar.pdb
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.csproj.AssemblyReference.cache
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.GeneratedMSBuildEditorConfig.editorconfig
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.AssemblyInfoInputs.cache
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.AssemblyInfo.cs
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.csproj.CoreCompileInputs.cache
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.dll
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/ref/Caesar.dll
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.pdb
+/home/yudhit/Documents/belajarNgoding/Caesar/obj/Debug/net6.0/Caesar.genruntimeconfig.cache
